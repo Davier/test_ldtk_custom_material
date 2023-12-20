@@ -1,0 +1,36 @@
+GET
+http://127.0.0.1:3000/favicon.ico
+[HTTP/1.1 404 Not Found 0ms]
+
+INFO /home/davierb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_winit-0.12.1/src/system.rs:55 Creating new window "App" (0v0) bevy_game.js:376:21
+An AudioContext was prevented from starting automatically. It must be created or resumed after a user gesture on the page. restart-audio-context.js:24:27
+An AudioContext was prevented from starting automatically. It must be created or resumed after a user gesture on the page. bevy_game.js:1617:36
+INFO /home/davierb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render-0.12.1/src/renderer/mod.rs:140 AdapterInfo { name: "Mozilla", vendor: 0, device: 0, device_type: Other, driver: "", driver_info: "", backend: Gl } bevy_game.js:376:21
+WARN /home/davierb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_pbr-0.12.1/src/ssao/mod.rs:87 ScreenSpaceAmbientOcclusionPlugin not loaded. GPU lacks support: TextureFormat::R16Float does not support TextureUsages::STORAGE_BINDING. bevy_game.js:376:21
+An AudioContext was prevented from starting automatically. It must be created or resumed after a user gesture on the page. 2 bevy_game.js:1630:24
+XHRGET
+http://127.0.0.1:3000/target/itch.io/assets/my_project.ldtk.meta
+[HTTP/1.1 404 Not Found 1ms]
+
+XHRGET
+http://127.0.0.1:3000/target/itch.io/assets/atlas/SunnyLand_by_Ansimuz-extended.png.meta
+[HTTP/1.1 404 Not Found 1ms]
+
+XHRGET
+http://127.0.0.1:3000/target/itch.io/assets/atlas/MV Icons Complete Sheet Free - ALL.png.meta
+[HTTP/1.1 404 Not Found 1ms]
+
+WebGL warning: clearBufferu?[fi]v: Framebuffer not complete. (status: 0x0000) Bad status according to the driver: 0x0000
+WebGL warning: clearBufferu?[fi]v: Framebuffer must be complete.
+WebGL warning: drawElementsInstanced: Framebuffer not complete. (status: 0x0000) Bad status according to the driver: 0x0000
+WebGL warning: drawElementsInstanced: Framebuffer must be complete.
+WebGL warning: drawElementsInstanced: Framebuffer not complete. (status: 0x0000) Bad status according to the driver: 0x0000
+WebGL warning: drawElementsInstanced: Framebuffer must be complete.
+WebGL warning: drawElementsInstanced: Framebuffer not complete. (status: 0x0000) Bad status according to the driver: 0x0000
+WebGL warning: drawElementsInstanced: Framebuffer must be complete.
+WebGL warning: blitFramebuffer: Framebuffer not complete. (status: 0x0000) Bad status according to the driver: 0x0000
+WebGL warning: blitFramebuffer: Framebuffer must be complete.
+WebGL warning: clearBufferu?[fi]v: Framebuffer not complete. (status: 0x0000) Bad status according to the driver: 0x0000
+WebGL warning: clearBufferu?[fi]v: Framebuffer must be complete.
+WebGL warning: drawArraysInstanced: Framebuffer not complete. (status: 0x0000) Bad status according to the driver: 0x0000
+WebGL warning: drawArraysInstanced: Framebuffer must be complete.
